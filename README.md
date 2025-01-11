@@ -1,16 +1,6 @@
-# test_project
+# flutter 的插件测试项目
 
-A new Flutter project.
+这是一个flutter的插件测试项目，用来测试自己制作的flutter 插件，配合博客使用
 
-## Getting Started
+## 博客地址 https://blog.csdn.net/mumubumaopao/article/details/144973557
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
